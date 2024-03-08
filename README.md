@@ -8,13 +8,13 @@ Finally it appends the winner to a txt file, so you have history of all the team
 I used C++ and was more so experimenting and seeing how the language worked.
 I spent about 4 hours learning the basics of C++, and four days of work each day culminating in about 4 hours of work for total time of just under 20 hours.
 I used a fair ammount of libraries
--	<iostream>: This library is used for input/output operations. Since my program just prints to the console this was pretty important
--	<cstdlib>: This library contains general purpose functions, including functions for memory management, process control, environment, conversions and others. In this code. I used it for the random name/number generators
--	<ctime>: This library is used to handle time in your programs. I used this for having the date on the txt file .
--	<string>: This library provides the std::string class that is used to create and manipulate strings.
--	<thread>: This library is used to create, manage and synchronize threads. I used this to delaying the output to the console.
--	<chrono>: This library is used to deal with time. It provides useful time duration types and clocks. In this code, it's used in conjunction with <thread> to pause the program.
--	<map>: This library provides the std::map container that stores elements formed by a combination of a key value and a mapped value, following a specific order. In this code, it's used to store favorite teams and their corresponding color codes.
+-	iostream: This library is used for input/output operations. Since my program just prints to the console this was pretty important
+-	cstdlib: This library contains general purpose functions, including functions for memory management, process control, environment, conversions and others. In this code. I used it for the random name/number generators
+-	ctime: This library is used to handle time in your programs. I used this for having the date on the txt file .
+-	string: This library provides the std::string class that is used to create and manipulate strings.
+-	thread: This library is used to create, manage and synchronize threads. I used this to delaying the output to the console.
+-	chrono: This library is used to deal with time. It provides useful time duration types and clocks. In this code, it's used in conjunction with <thread> to pause the program.
+-	map: This library provides the std::map container that stores elements formed by a combination of a key value and a mapped value, following a specific order. In this code, it's used to store favorite teams and their corresponding color codes.
 
 ## Websites
 -[W3 School]https://www.w3schools.com/cpp/
