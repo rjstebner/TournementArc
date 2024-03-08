@@ -4,16 +4,6 @@ Tournament Arc is a random Tournamnet Generator, the idea is that a list of rand
 It allows the user to specify the number of teams, then select favourite teams from the list provided to higlight them and watch there progress
 Finally it appends the winner to a txt file, so you have history of all the teams that won.
 
-### Requirements
-I have pretty solid use of all of the requirments:
--Variables and Expressions are used liberally
--Conditionals and Loops are the backbone of the whole program
--I have multiple functions some of some of which are called multiple times.
--I use a a bunch of lists as well as a map for colour for Data Structures from STL
--I don't have any classes, my original plan was to make the teams classes but it seemed unecessary so I kept it simple instead.
-
-- For Strech Goals, my program can write files, I had a version where it could read files too, It would display a "hall of fame" of all the past winners read from the txt file, but I didn't like the implementaion or how it looked so I deleted it, and haven't thought of a better way to slap it in yet
-
 ## My Youtube Video
 https://youtu.be/tGozP_cwWeI
 
