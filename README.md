@@ -4,6 +4,9 @@ Tournament Arc is a random Tournamnet Generator, the idea is that a list of rand
 It allows the user to specify the number of teams, then select favourite teams from the list provided to higlight them and watch there progress
 Finally it appends the winner to a txt file, so you have history of all the teams that won.
 
+## My Youtube Video
+https://youtu.be/tGozP_cwWeI
+
 ## Enviroment
 I used C++ and was more so experimenting and seeing how the language worked.
 I spent about 4 hours learning the basics of C++, and four days of work each day culminating in about 4 hours of work for total time of just under 20 hours.
