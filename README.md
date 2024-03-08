@@ -17,9 +17,9 @@ I used a fair ammount of libraries
 -	<map>: This library provides the std::map container that stores elements formed by a combination of a key value and a mapped value, following a specific order. In this code, it's used to store favorite teams and their corresponding color codes.
 
 ## Websites
-[W3 School]https://www.w3schools.com/cpp/
-[Someguys youtube tutorial]https://www.youtube.com/watch?v=ZzaPdXTrSb8&t=1327s
-Various Stack Flow google results.
+-[W3 School]https://www.w3schools.com/cpp/
+-[Someguys youtube tutorial]https://www.youtube.com/watch?v=ZzaPdXTrSb8&t=1327s
+-Various Stack Flow google results.
 
 ## Future Work
 - A franchise mode there the same teams compete over and over again with mild tweaks to power level
