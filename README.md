@@ -9,7 +9,7 @@ https://youtu.be/tGozP_cwWeI
 
 ## Enviroment
 I used C++ and was more so experimenting and seeing how the language worked.
-I spent about 4 hours learning the basics of C++, and four days of work each day culminating in about 4 hours of work for total time of just under 20 hours.
+I spent about 4 hours learning the basics of C++ a put this together in about a day
 I used a fair ammount of libraries
 -	iostream: This library is used for input/output operations. Since my program just prints to the console this was pretty important
 -	cstdlib: This library contains general purpose functions, including functions for memory management, process control, environment, conversions and others. In this code. I used it for the random name/number generators
